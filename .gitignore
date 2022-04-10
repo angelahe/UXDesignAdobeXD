@@ -1,0 +1,6 @@
+# misc
+.DS_Store
+*.zip
+
+# exercise files
+Exercise Files/*
