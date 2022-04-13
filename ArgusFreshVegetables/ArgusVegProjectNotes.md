@@ -1,0 +1,21 @@
+## Argus Fresh Vegetables
+
+## Project Brief
+Argus's Fresh Vegetables is a small local business in Calgary, Alberta, Canada that delivers fresh vegetables to your door
+
+Your ideal customer is a woman named Mia. Mia is in their mid 40's and is married with no children. They have a doctoral
+degree and own a small business.  Mia lives in Calgary, is somewhat familiar with your product, and likes to have the latest tech.
+
+## initial thoughts about the project brief
+company: questions
+local business, but are the vegetables local, or shipped in?
+what makes them unique, rather than a local supermarket?
+what are their values?
+
+ideal customer:
+likes to cook with husband?
+is educated, and knows that eating healthy is important
+is a business owner and proably cares about supporting other local businesses
+probably cares about eating healthy and is willing to pay more for quality
+busy running business and this is a convenience
+

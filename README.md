@@ -13,7 +13,7 @@ Wix
 UI user interface design
 UX user experience design - hypothesis about what the user would love, and then test it with clients, iterate
 
-#  UX/UI Project Brief
+#  UX/UI Project Brief - Course
 Scott's Green Tea
 
 Scotts Green Tea is a small local business in Limerick that delivers Green Tea to your door
@@ -36,7 +36,11 @@ eCommerce Purchase
 UX task flows vs user flows
 medium.com/erika-harano/ux-task-flows-versus-user-flows-as-demonstrated-by-pancakes-896e78a98026
 https://bringyourownlaptop.com/uxflows
-
+Balsamiq - creating mobile app wireframes
+https://balsamiq.com/learn/articles/mobile-app-wireframing-guide/
+https://balsamiq.com/learn/articles/wireframing-responsive-design/
+https://balsamiq.com/learn/articles/wireframing-mobile-applications/
+www.randomprojectgenerator.com
 
 ## Task Flows
 
@@ -65,3 +69,8 @@ https://bringyourownlaptop.com/uxflows
 -SHOW PROPOSED PAGES/SCREENS, PLUS USER INTERACTIONS, USER DECISIONS, AND SYSTEM DECISIONS
 -SPECIFIC TO PARTICULAR USERS/TARGET AUDIENCES/PERSONAS
 -CAN BE USED TO SHOW HOW DIFFERENT USERS MIGHT ACCOMPLISH SIMILAR GOALS IN DIFFERENT WAYS
+
+## tips on working with clients
+find out who the company is - e.g. mission statement
+small business - conversation, get clear on who they are and what's important to them, what makes them unique
+
