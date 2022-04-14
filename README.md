@@ -74,3 +74,7 @@ www.randomprojectgenerator.com
 find out who the company is - e.g. mission statement
 small business - conversation, get clear on who they are and what's important to them, what makes them unique
 
+## XD Shortcuts
+Cmd +
+Cmd -
+hold spacebar and drag
