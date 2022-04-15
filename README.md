@@ -75,6 +75,18 @@ find out who the company is - e.g. mission statement
 small business - conversation, get clear on who they are and what's important to them, what makes them unique
 
 ## XD Shortcuts
-Cmd +
-Cmd -
-hold spacebar and drag
+Cmd + zoom in
+Cmd - zoom out
+hold spacebar and drag - move around the page
+Option + click on obj + drag = makes a copy of it 
+v - select tool
+Cmd Y or View > Layers to see the artboards and components
+text tool + click/drag - make fixed width text box
+Cmd + return - desktop preview
+
+## misc notes
+installed Roboto font
+installed SF Pro and SF Compact fonts
+
+## Adobe XD Tutorial
+https://www.adobe.com/ca/products/xd/learn/get-started-xd-design.html
