@@ -85,10 +85,17 @@ text tool + click/drag - make fixed width text box
 Cmd + return - desktop preview
 option/alt + click drag corner of rectangle, just move rounded corner on that corner
 shift drag + ellipse = circle
+shift drag + line = straight (horizontal or vertical or 45 degrees)
 Cmd+1 = 100% zoom
 Cmd+2 = 200% zoom
 Cmd+0 = fit all on screen
 Cmd+3 = selected thing centered and big on screen
+number selected up/down arrow to inc by 1
+copy object + paste appearance to apply same properties
+
+## UI icons
+reflect on selected object (e.g. line to cross)
+rounded corners on lines
 
 ## misc notes
 installed Roboto font
