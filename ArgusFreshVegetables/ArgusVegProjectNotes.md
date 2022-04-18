@@ -19,3 +19,6 @@ is a business owner and proably cares about supporting other local businesses
 probably cares about eating healthy and is willing to pay more for quality
 busy running business and this is a convenience
 
+## assignment notes on what learned
+I didn't know how to see the layers from the video, so I went to Adobe's site and did the quick getting started tutorial.  since I learned about repeat grid, I used it to create the product details.  Also used reflect to get the down arrow for the quantity (that I added).  still kept it simple, just started to make it my own.  I've shopped on Amazon a million times, so I used part of their familiar flow for buying and some of the same verbiage.  Since the pandemic, a lot of people shop on Amazon now, so I patterned a couple of the design patterns from there.
+
