@@ -41,6 +41,15 @@ https://balsamiq.com/learn/articles/mobile-app-wireframing-guide/
 https://balsamiq.com/learn/articles/wireframing-responsive-design/
 https://balsamiq.com/learn/articles/wireframing-mobile-applications/
 www.randomprojectgenerator.com
+iconfinder.com
+google 'xd ui kits'
+google 'sticker sheets'
+google 'design systems'
+google 'android xd ui kit'
+xdguru.com/free-xd-ui-kits
+https://www.adobe.com/ca/products/xd/features/ui-kits.html#panel-3
+https://xd.adobe.com/ideas/career-tips/16-experts-explain-ux-design-and-what-they-do/index.html
+
 
 ## Task Flows
 
@@ -92,6 +101,7 @@ Cmd+0 = fit all on screen
 Cmd+3 = selected thing centered and big on screen
 number selected up/down arrow to inc by 1
 copy object + paste appearance to apply same properties
+file > getuikits > 
 
 ## UI icons
 reflect on selected object (e.g. line to cross)
