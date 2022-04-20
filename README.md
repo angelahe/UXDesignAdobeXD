@@ -48,7 +48,14 @@ google 'design systems'
 google 'android xd ui kit'
 xdguru.com/free-xd-ui-kits
 https://www.adobe.com/ca/products/xd/features/ui-kits.html#panel-3
+find ui kit hand-drawn_ui_kit_behance
 https://xd.adobe.com/ideas/career-tips/16-experts-explain-ux-design-and-what-they-do/index.html
+freepik.com for social icons
+icons8.com
+https://icons8.com/icons/set/facebook
+<a target="_blank" href="https://icons8.com/icon/60444/linkedin-circled">LinkedIn Circled</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+iconmonstr
+iconfinder
 
 
 ## Task Flows
@@ -102,6 +109,10 @@ Cmd+3 = selected thing centered and big on screen
 number selected up/down arrow to inc by 1
 copy object + paste appearance to apply same properties
 file > getuikits > 
+Cmd + ~ to toggle between xd projects
+Shift + Option when dragging to keep it centered
+Cmd + Shift + i to import
+Cmd + G group
 
 ## UI icons
 reflect on selected object (e.g. line to cross)
@@ -113,3 +124,12 @@ installed SF Pro and SF Compact fonts
 
 ## Adobe XD Tutorial
 https://www.adobe.com/ca/products/xd/learn/get-started-xd-design.html
+
+## using ui kits
+copy paste, then ungroup components
+diamond in corner if copy components
+
+## using svgs
+can ungroup an svg and change it
+can add border to make them thicker, 
+right click and select outline stroke so the border scales down when make svg smaller
