@@ -133,3 +133,9 @@ diamond in corner if copy components
 can ungroup an svg and change it
 can add border to make them thicker, 
 right click and select outline stroke so the border scales down when make svg smaller
+
+## prototype
+wire the artboards together, click on prototype top menu
+click and drag from element to other artboards
+Cmd+A to show all wires between artboards
+can copy/paste in prototype mode to copy the wires for objects
