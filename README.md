@@ -139,3 +139,20 @@ wire the artboards together, click on prototype top menu
 click and drag from element to other artboards
 Cmd+A to show all wires between artboards
 can copy/paste in prototype mode to copy the wires for objects
+can choose destination of tap for prototype from interraction dropdown in rhs menu
+animations for transitions - include slide left
+use ease out in duration for less harsh transition
+
+## 12 principles of animation
+squash and stretch
+anticipation
+staging
+straight-ahead action and pose-to-pose
+follow through and overlapping action
+slow in and slow out
+arc
+secondary action
+timing
+exaggeration
+solid drawing
+appeal
