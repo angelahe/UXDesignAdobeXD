@@ -156,3 +156,12 @@ timing
 exaggeration
 solid drawing
 appeal
+
+## see design of XD app on phone
+download Adobe XD on phone
+connect usb cord to computer
+can tap on phone to see what is navegable
+can triple tap on screen for more options
+can unplug the phone for testing
+have to have it saved to cloud for phone testing
+Cmd A then click on home icon in left corner for default start screen
