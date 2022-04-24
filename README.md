@@ -165,3 +165,9 @@ can triple tap on screen for more options
 can unplug the phone for testing
 have to have it saved to cloud for phone testing
 Cmd A then click on home icon in left corner for default start screen
+
+## Animation
+Option 1 design
+Option 2 prototype
+duplicate artboard, with position 1 on 1st, position 2 on 2nd
+transition from one artboard to another, change from tap to time, and type = auto-animate
